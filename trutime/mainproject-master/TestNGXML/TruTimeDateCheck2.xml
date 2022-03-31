@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TruTime Dates Check For Incorrect System(Local) Date ">
+  <test name="TruTime Date Check2">
+    <classes>
+      <class name="Modules.HomePage"/>
+      <class name="Modules.TruTimePage"/>    
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
